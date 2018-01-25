@@ -1,0 +1,16 @@
+*{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font-style: normal;
+}
+body {
+	background: #fff;
+}
+
+a{
+	text-decoration: none;
+}
+img{
+	border: none;
+}
